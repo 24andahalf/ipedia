@@ -4,32 +4,27 @@ var ipedia = {
 		title: "PCs",
 		object1: {
 			image: "images/ipedia-images/Adamant.png",
-			name: "Adamant",
-			age: "42",
-			height: "Tall!",
-			weight: "Heavy!",
-			class: "Paladin",
-			catchphrase: "I give him a few gold coins...",
+			name: "Reed Tosscobble",
+			age: "23",
+			height: "4'22",
+			weight: "Yup!",
+			class: "Rogue",
+			catchphrase: "*snoooore*",
 			bio: "Snarf a barf barf!"
 		},
 		object2: {
 			image: "images/ipedia-images/Kaito.png",
-			name: "Kaito",
+			name: "Wilder Tosscobble",
 			info: "Barf a snarf snarf!"
 		},
 		object3: {
 			image: "images/ipedia-images/Neart.png",
-			name: "Neart",
+			name: "Faen",
 			info: "Barf a snarf snarf!"
 		},
 		object4: {
 			image: "images/ipedia-images/Tasi.png",
-			name: "Tasi",
-			info: "Barf a snarf snarf!"
-		},
-		object5: {
-			image: "images/ipedia-images/Tempelis.png",
-			name: "Tempelis",
+			name: "Keyvan RedBlade",
 			info: "Barf a snarf snarf!"
 		}
 
@@ -40,12 +35,12 @@ var ipedia = {
 		title: "NPCs",
 		object1: {
 			image: "PORTRAIT_Tasi.jpg",
-			name: "Poof",
+			name: "Bix Silvershine",
 			info: "Poof a doof a doof!"
 		},
 		object2: {
 			image: "PORTRAIT_Tasi.jpg",
-			name: "Doof",
+			name: "Thane Silvershine",
 			info: "Doof a poof a poof!"
 		}
 
